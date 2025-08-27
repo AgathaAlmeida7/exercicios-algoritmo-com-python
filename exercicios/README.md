@@ -1,8 +1,8 @@
-# Exercícios de Lógica em Python — For (Portfólio)
+# Exercícios de Lógica em Python  (Portfólio)
 
 **Autor:** Agatha Almeida  
 
-Repositório com exercícios práticos de lógica de programação em Python, com foco em estruturas de repetição (`for`), 
+Repositório com exercícios práticos de lógica de programação em Python, com foco em estruturas de repetição, 
 ---
 
 ## 🎯 Objetivo
